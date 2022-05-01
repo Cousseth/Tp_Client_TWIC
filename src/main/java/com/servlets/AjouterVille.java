@@ -11,7 +11,7 @@ import com.beans.Ville;
 import com.dao.DaoFactory;
 
 /**
- * Servlet implementation class AjouterVille
+ * Servlet implementation class AjouterVilles
  */
 @WebServlet("/AjouterVille")
 public class AjouterVille extends HttpServlet {
